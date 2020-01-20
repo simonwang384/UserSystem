@@ -1,3 +1,7 @@
+/*
+    Author: Simon Wang
+    Version: 1.0
+*/
 package Main;
 
 import controller.StartMenuController;
